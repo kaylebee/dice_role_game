@@ -6,11 +6,8 @@ import java.util.Random;
  * The Game class simulates a dice roll game.
  */
 public class DiceRoleGame {
-    // The number of times the game is played
     private static final int ROLLS = 10000;
-    // Random number generator for the dice rolls
     private static final Random RANDOM = new Random();
-
     /**
      * Main method running the game simulation.
      *
