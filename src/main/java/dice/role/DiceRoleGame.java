@@ -10,7 +10,7 @@ public class DiceRoleGame {
     private static final int ROLLS = 10000;
     // Random number generator for the dice rolls
     private static final Random RANDOM = new Random();
-
+ewfewfwef
     /**
      * Main method running the game simulation.
      *
